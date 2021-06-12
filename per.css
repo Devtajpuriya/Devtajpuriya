@@ -1,0 +1,77 @@
+ol p{
+    font-size: 19px;
+}
+.img{
+    background:red;
+    background: transparent;
+    z-index: 1;
+}
+.hov{
+    font-size: 20px;
+    color: red;
+}
+.section_has_divider .et_pb_row {
+   
+    
+    }
+    .et_pb_section_1.et_pb_section {
+     background: url("mac.jpg") no-repeat;
+     background-size: cover;
+    }
+   .et_pb_text_inner{
+    color: red;
+   }
+    
+    footer, .dev{
+        text-align: center;
+        padding: 10px;
+        margin: 20px;
+        background: green;
+        color: white;
+    }
+
+    .hov img{
+        width: 150px;
+        height: 150px
+
+        text-align: center;
+        margin-left: 500px;
+        background: transparent;
+        border-radius: 50%;
+        border-top:0px;
+        z-index: 1;
+       border: 2px solid white;
+        
+    }
+    
+    .service{
+        color: white;
+        background:gray;
+        text-align: center;
+        font-size:20px;
+        margin: 0px;
+        padding: 40px;
+    }
+     .service, li{
+        text-align: center;
+        color: red;
+     }
+    .sercice, nav, h1{
+        color: red;
+    }
+    .hov .pro{
+         width: 100px;
+        height: 100px
+
+        text-align: center;
+        margin-left:500px;
+        border-radius: 50%;
+        border-top:px;
+        z-index: 1;
+        color: white;
+
+    }
+    .p p{
+        color: black;
+        font-family: Algerian;
+    }
